@@ -1,2 +1,2 @@
 #!/bin/bash
-Displaying with user and group IDs in a long format
+"Creating a directory named my_first_directory in the /tmp/ directory"
