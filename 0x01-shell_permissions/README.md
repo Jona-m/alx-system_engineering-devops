@@ -1,2 +1,2 @@
 #!/bin/bash
-Changing the owner to vincent and the group owner to staff
+Changing the owner and the group owner of _hello to vincent and staff respectively
