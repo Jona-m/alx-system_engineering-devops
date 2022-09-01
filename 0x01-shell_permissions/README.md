@@ -1,2 +1,2 @@
 #!/bin/bash
-Switching current user to the user betty
+Printing the effective username of the current user
