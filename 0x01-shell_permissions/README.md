@@ -1,2 +1,2 @@
 #!/bin/bash
-Changing the group owner to school for the file hello
+Changing the owner to vincent and the group owner to staff
