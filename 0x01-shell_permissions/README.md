@@ -1,2 +1,2 @@
 #!/bin/bash
-Adding execute permission to all subdirectories of the current directory
+Creating a directory called my_dir with permissions 751 in the working directory
