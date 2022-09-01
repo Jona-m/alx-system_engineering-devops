@@ -1,2 +1,2 @@
 #!/bin/bash
-Sets the mode of the file hello the same as olleh’s mode.
+Adding execute permission to all subdirectories of the current directory
