@@ -1,2 +1,2 @@
 #!/bin/bash
-Create a symbolic link to /bin/ls, named __ls__ in the working directory
+changes the owner of the file hello to betty only if it is owned by the user guillaume
