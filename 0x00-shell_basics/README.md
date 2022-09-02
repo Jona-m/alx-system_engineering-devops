@@ -1,2 +1,2 @@
 #!/bin/bash
-lists all files regardlessly
+prints the type of the file named iamafile in /tmp
