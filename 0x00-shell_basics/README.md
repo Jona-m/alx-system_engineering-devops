@@ -1,2 +1,2 @@
 #!/bin/bash
-Creates a symbolic link to /bin/ls, named __ls__ in the working directory
+copies all the HTML files from the current working directory
