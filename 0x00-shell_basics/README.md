@@ -1,2 +1,2 @@
 #!/bin/bash
-prints the type of the file named iamafile in /tmp
+Creates a symbolic link to /bin/ls, named __ls__ in the working directory
