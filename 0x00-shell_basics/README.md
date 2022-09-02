@@ -1,2 +1,2 @@
 #!/bin/bash
-Changing the working directory to the previous one
+lists all files regardlessly
