@@ -1,2 +1,2 @@
 #!/bin/bash
-lists all the files and directories of the current directory, separated by commas (,)
+command file to detect School data files. School data files
