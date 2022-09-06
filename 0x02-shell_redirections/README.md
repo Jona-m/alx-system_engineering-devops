@@ -1,2 +1,2 @@
 #!/bin/bash
-I hate bins
+Letters only please
