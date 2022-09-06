@@ -1,2 +1,2 @@
 #!/bin/bash
-Duplicate last line
+No more javascript
