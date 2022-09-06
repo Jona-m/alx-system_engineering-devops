@@ -1,1 +1,2 @@
-Global variables
+#!/bin/bash
+Local variables
