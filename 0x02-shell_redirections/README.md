@@ -1,2 +1,2 @@
 #!/bin/bash
-Hello World
+Empty casks make the most noise
