@@ -1,2 +1,2 @@
 #!/bin/bash
-Empty casks make the most noise
+A gif is worth ten thousand words
